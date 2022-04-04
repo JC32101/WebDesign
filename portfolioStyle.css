@@ -1,0 +1,37 @@
+body{
+    background-color: #eae5ff;
+    font-family: "Wurmics Bravo", Georgia, serif;
+}
+
+header{
+    text-align: center;
+    padding: 20px;
+}
+
+nav{
+    text-align: center;
+    background-color: #cfc7ff;
+    padding: 15px;
+    font-size: 20px;
+    font-family: "Wurmics Bravo", serif;
+}
+
+h2, h3{
+    text-align: center;
+}
+
+#container, #container2{
+    padding-left: 40px;
+}
+
+main{
+    padding-bottom: 10px;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 50px;
+    background-color: #cfc7ff;
+    font-family: "Wurmics Bravo", serif;
+}

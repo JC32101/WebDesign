@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Josephine's Portfolio</title>
+</head>
+<body>
+
+	<header>
+		<a href= "portfolio.html"><img src = "selfie.jpg" alt = "Josephine Chan" height = "221" width = "295"</a>
+	</header>
+
+	<nav>
+		<a href= "portfolio.html">Home</a> &nbsp; &nbsp;
+		<a href= "education.html">Education</a> &nbsp; &nbsp;
+		<a href= "experience.html">Experience</a> &nbsp; &nbsp;
+		<a href= "fact.html">Fun Facts</a> &nbsp; &nbsp;
+		<a href= "contact.html">Contact</a> &nbsp; &nbsp;
+	</nav>
+
+	<main>
+		<h3>Biography</h3><hr>
+		
+		<p>Josephine Chan was born in New York City, New York on March 21.<br>
+		Her parents were immigrants who immigrated from Fujian, China with little to none english.<br>
+		At youth she was able to speak in four different languages: English, Mandarin, Cantonese and Fijianese.<br>
+		However, she lost the ability to speak Fujianese after her visit in China from using Mandarin too much in pre-school.<br>
+		Although she's unable to speak the language she's able to understand it fluently. As if that language has been sealed inside her. <br><br>
+		
+		Josephine grew to be a very active girl due to her aunt (her dad's younger sister).<br>
+		Whenenver her aunt sees her, she would always take her on a wondorous journey: camping, hiking, rock climbing and many others.<br>
+		Josephine is a shy girl but due to her encounters with her aunt, it made her become an extroverted introvert.<br>
+		She became more confident and courageous.<br>
+		She would constantly visit her aunt in San Francisco, california in the Summer.<br>
+		At the age of 7, she was able to ride the plane alone to visit her dear aunt.<br><br>
+		
+		Sadly 好景不长, good times don't last.<br>
+		In the Fall of third grade, her aunt died due to an accident from rock climbing.<br>
+		It was unfortunate but Josephine couldn't feel the sadness in her.<br>
+		She doesn't hold any regrets for her aunt because she spent her most wonderful of her youth with her.<br>
+		She was content.<br>
+		She lives her life in content and walks forward with curiosity. She lives her life the way she wants happily.<br><br>
+		
+		<b>Life Motto:</b> To become who I want to be and To live the way I want it to be.</p><hr>
+	</main>
+
+	<footer>
+		<b>Email:</b> <a href = "mailto:jc41405n@pace.edu">jc41405n@pace.edu</a><br>
+		<b>Phone:</b> 123-123-1234
+	</footer>
+	
+</body>
+</html>
